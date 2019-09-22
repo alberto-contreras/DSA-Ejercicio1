@@ -1,5 +1,7 @@
+import java.util.Arrays;
 public interface GestorFiguras {
-     static double suma (Figura [] l){
+
+    static double suma (Figura [] l){
 
             double ret=0;
             for (Figura f : l){
@@ -9,8 +11,9 @@ public interface GestorFiguras {
 
 
     }
-     static Figura [] sort (Figura[] l){
+     static  Figura[] sort (Figura[] l){
         Figura [] vector  = new Figura[2];
+        //Arrays.sort(vector);
         return vector;
 
     }

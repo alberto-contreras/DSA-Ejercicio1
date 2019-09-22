@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac83a4c9-0eaf-434a-ad4e-ed7b54ba128d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestorFiguras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GestorFigurasImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejercicio1/GestorFiguras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicio1/GestorFiguras.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejercicio1/GestorFigurasImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicio1/GestorFigurasImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GestorFiguras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GestorFiguras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GestorFigurasImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GestorFigurasImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangulo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Ejercicio1" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
