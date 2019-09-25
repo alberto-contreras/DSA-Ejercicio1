@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac83a4c9-0eaf-434a-ad4e-ed7b54ba128d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejercicio1/Figura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicio1/Figura.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Ejercicio1/GestorFiguras.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicio1/GestorFiguras.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Ejercicio1/GestorFigurasImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicio1/GestorFigurasImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GestorFiguras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GestorFiguras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GestorFigurasImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GestorFigurasImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejercicio1/Rectangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicio1/Rectangulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Figura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GestorFiguras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GestorFigurasImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quadrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Triangulo.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -41,6 +47,9 @@
   <component name="ProjectId" id="1R6iVwnBnguzyofJ2eyYF9qsWef" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">

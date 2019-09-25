@@ -7,6 +7,9 @@ public class Rectangulo extends Figura{
         l1 = lado;
         l2 = lado1;
     }
+    public void papi(){
+
+    }
 
     public double area() {
         return l1*l2;
